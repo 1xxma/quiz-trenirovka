@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+secrets.json
+aqtinstall.log
+learn-site/
+learn-site-preview/
+learn-site2/
+quiz_*.json
+__pycache__/
+*.pyc
+.DS_Store
